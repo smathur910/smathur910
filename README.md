@@ -13,7 +13,7 @@
 ![HTML](https://github.com/smathur910/myGithub_profile/blob/main/images/1.png?raw=true "HTML") ![CSS](https://github.com/smathur910/myGithub_profile/blob/main/images/2.png?raw=true "CSS") ![JAVASCRIPT](https://github.com/smathur910/myGithub_profile/blob/main/images/3.png?raw=true "JAVASCRIPT") ![PHP](https://github.com/smathur910/myGithub_profile/blob/main/images/4.png?raw=true "PHP") ![React](https://github.com/smathur910/myGithub_profile/blob/main/images/5.png?raw=true "React")
 #### Prior Knowledge in
 ![Wordpress](https://github.com/smathur910/myGithub_profile/blob/main/images/6.png?raw=true "Wordpress") ![Shopify](https://github.com/smathur910/myGithub_profile/blob/main/images/7.png?raw=true "Shopify")
-### Tools I Know
+### Tools I Use
 ![Photoshop](https://github.com/smathur910/myGithub_profile/blob/main/images/10.png?raw=true "Photoshop") ![Illustrator](https://github.com/smathur910/myGithub_profile/blob/main/images/9.png?raw=true "Illustrator") ![Adobe XD](https://github.com/smathur910/myGithub_profile/blob/main/images/8.png?raw=true "Adobe XD")
 
 ------------
